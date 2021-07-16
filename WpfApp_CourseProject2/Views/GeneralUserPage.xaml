@@ -1,0 +1,135 @@
+﻿<UserControl x:Class="WpfApp_CourseProject2.Views.GeneralUserView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:WpfApp_CourseProject2.Views"
+             mc:Ignorable="d" 
+             xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity"
+             d:DesignHeight="450" d:DesignWidth="600">
+    <UserControl.Background>
+        <ImageBrush ImageSource=" https://realeconomy.rsmus.com/wp-content/uploads/2020/07/IMG_CP_RGB_Car-dealership-lot-with-new-cars.jpg "></ImageBrush>
+    </UserControl.Background>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="90"></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition Width="2*"></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Expander Header="Sorting"
+                  Grid.Column="0"
+                  Grid.Row="0"
+                  FontWeight="UltraBold">
+            <ScrollViewer>
+                <StackPanel >
+                    <RadioButton Content="All"
+                                 Foreground="Wheat"
+                             FontWeight="Normal"
+                             Command="{Binding SortCommand}"
+                             CommandParameter="all"
+                             ></RadioButton>
+                    <RadioButton Content="Model"
+                                 Foreground="Wheat"
+                             FontWeight="Normal"
+                                Command="{Binding SortCommand}"
+                                CommandParameter="Model"></RadioButton>
+                    <RadioButton Content="Year Of Issue (ascending)"
+                                 Foreground="Wheat"
+                             FontWeight="Normal"
+                                Command="{Binding SortCommand}"
+                                CommandParameter="YearOfIssue"></RadioButton>
+
+                    <RadioButton Content="Year Of Issue (descending)"
+                                 Foreground="Wheat"
+                             FontWeight="Normal"
+                            Command="{Binding DSortCommand}"
+                            CommandParameter="YearOfIssue"></RadioButton>
+                    <RadioButton Content="Price (ascending)"
+                                 Foreground="Wheat"
+                             FontWeight="Normal"
+                            Command="{Binding SortCommand}"
+                            CommandParameter="Price"></RadioButton>
+                    <RadioButton Content="Price (descending)"
+                                 Foreground="Wheat"
+                             FontWeight="Normal"
+                            Command="{Binding DSortCommand}"
+                            CommandParameter="Price"></RadioButton>
+
+
+                </StackPanel>
+            </ScrollViewer>
+        </Expander>
+
+        <ListBox ItemsSource="{Binding CarsView}"
+                 SelectedItem = "{Binding SelectedCar}"
+                 ScrollViewer.HorizontalScrollBarVisibility="Disabled"
+                 Background="{Binding  CurrentTheme.Color}"
+                 Grid.Column="0"
+                 Grid.Row="1"
+                 Grid.ColumnSpan="2"
+                 x:Name="listBox">
+            <i:Interaction.Triggers>
+                <i:EventTrigger EventName="MouseDoubleClick">
+                    <i:InvokeCommandAction Command="{Binding UserMouseDoubleClickCommand}"></i:InvokeCommandAction>
+                </i:EventTrigger>
+            </i:Interaction.Triggers>
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel>
+                        <Image Source="{Binding ImageUrl}"
+                               Width="250"
+                               Height="200"></Image>
+                        <WrapPanel HorizontalAlignment="Center"
+                                   VerticalAlignment="Center">
+                            <TextBlock Text = "{Binding Brand}"
+                                       FontWeight="UltraBold"></TextBlock >
+                            <TextBlock Text = "  "></TextBlock >
+                            <TextBlock Text = "{Binding Model}"
+                                       FontWeight="UltraBold"></TextBlock>
+                        </WrapPanel>
+                        <WrapPanel>
+                            <TextBlock Text="Price: "></TextBlock>
+                            <TextBlock Text="{Binding Price}"></TextBlock>
+                            <TextBlock Text=" $"></TextBlock>
+                        </WrapPanel>
+                        <WrapPanel>
+                            <TextBlock Text="Year of issue: "
+                                    HorizontalAlignment="Right"></TextBlock>
+                            <TextBlock Text="{Binding YearOfIssue}"
+                                HorizontalAlignment="Right"></TextBlock>
+                        </WrapPanel>
+                        <WrapPanel>
+                            <TextBlock Text="*  "></TextBlock>
+                            <TextBlock Text="{Binding TypeOfDrive.TypeOfDrive1}"></TextBlock>
+                            <TextBlock Text="     *  "></TextBlock>
+                            <TextBlock Text="{Binding Transmissions.TypeTransm}"></TextBlock>
+                        </WrapPanel>
+                        
+                    </StackPanel>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+            <ListBox.ItemsPanel>
+                <ItemsPanelTemplate>
+                    <WrapPanel></WrapPanel>
+                </ItemsPanelTemplate>
+            </ListBox.ItemsPanel>
+
+        </ListBox>
+        <Image Grid.Column="1"
+               Grid.Row="0"
+               Source="https://americasautobody.com/wp-content/uploads/2020/05/Vector-Logo_Americas-Auto-Body-002.jpg"
+               Stretch="Fill">
+        </Image>
+        <StackPanel Grid.Row="1"
+                    Grid.Column="2">
+            <Button x:Name="btn"
+                                FontWeight="UltraBold"
+                                Command="{Binding AddToFavoritesCommand}"
+                                CommandParameter="{Binding ElementName=btn}">Add to favorites</Button>
+        </StackPanel>
+    </Grid>
+</UserControl>

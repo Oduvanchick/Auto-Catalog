@@ -1,0 +1,167 @@
+﻿<UserControl x:Class="WpfApp_CourseProject2.Views.EditCarView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:WpfApp_CourseProject2.Views"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Grid Background="{Binding  CurrentTheme.Color}">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition Width="2*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <StackPanel HorizontalAlignment="Left"
+                    VerticalAlignment="Center"
+                    Grid.Column="0">
+            <TextBlock Text="Brand" 
+                       Foreground="White"
+                       HorizontalAlignment="Center" FontWeight="UltraBold"
+                       FontSize="15"
+                       Margin="20,10,0,0"></TextBlock>
+            <TextBlock Text="Model" 
+                           Margin="20,10,0,0"
+                       Foreground="White"
+                       HorizontalAlignment="Center" FontWeight="UltraBold"
+                       FontSize="15"></TextBlock>
+            <TextBlock Text="Price" 
+                           Margin="20,10,0,0"
+                       Foreground="White"
+                       HorizontalAlignment="Center" FontWeight="UltraBold"
+                       FontSize="15"></TextBlock>
+            <TextBlock Text="Color" Foreground="White"
+                           Margin="20,10,0,0"
+                       HorizontalAlignment="Center" FontWeight="UltraBold"
+                       FontSize="15"></TextBlock>
+            <TextBlock Text="Photo (link)" Foreground="White"
+                       HorizontalAlignment="Center" FontWeight="UltraBold"
+                       FontSize="15"
+                           Margin="20,10,0,0"></TextBlock>
+            <TextBlock Text="Engine Volume" 
+                       Foreground="White"
+                       HorizontalAlignment="Center" FontWeight="UltraBold"
+                      FontSize="15"
+                       Margin="20,10,0,0"></TextBlock>
+            <TextBlock Text="Transmission" 
+                           Margin="20,10,0,0"
+                       Foreground="White"
+                       HorizontalAlignment="Center" FontWeight="UltraBold"
+                       FontSize="15"></TextBlock>
+            <TextBlock Text="YearOfIssue" 
+                           Margin="20,10,0,0"
+                       Foreground="White"
+                       HorizontalAlignment="Center" FontWeight="UltraBold"
+                       FontSize="15"></TextBlock>
+            <TextBlock Text="Mileage" Foreground="White"
+                           Margin="20,10,0,0"
+                       HorizontalAlignment="Center" FontWeight="UltraBold"
+                       FontSize="15"></TextBlock>
+            <TextBlock Text="HorsePower" Foreground="White"
+                       HorizontalAlignment="Center" FontWeight="UltraBold"
+                       FontSize="15"
+                           Margin="20,10,0,0"></TextBlock>
+            <TextBlock Text="TypeOfDrive" Foreground="White"
+                           Margin="20,10,0,0"
+                       HorizontalAlignment="Center" FontWeight="UltraBold"
+                       FontSize="15"></TextBlock>
+            <TextBlock Text="Fuel" Foreground="White"
+                       HorizontalAlignment="Center" FontWeight="UltraBold"
+                       FontSize="15"
+                           Margin="20,10,0,0"></TextBlock>
+
+
+        </StackPanel>
+        <StackPanel HorizontalAlignment="Left"
+                    VerticalAlignment="Center"
+                    Grid.Column="1">
+            <TextBox Width="150"
+                     Height="20"
+                Margin="20,10,0,0"
+                       Text="{Binding SelectedCar.Brand}">
+            </TextBox>
+
+            <TextBox Width="150"
+                      Height="20"
+                Margin="20,10,0,0"
+                     Text="{Binding SelectedCar.Model}">
+
+            </TextBox>
+
+            <TextBox Width="150"
+                    Height="20"
+            Margin="20,10,0,0"
+                Text="{Binding SelectedCar.Price}">
+
+            </TextBox>
+
+            <TextBox Width="150"
+                      Height="20"
+                Margin="20,10,0,0"
+                     Text="{Binding SelectedCar.Color}"
+                      AllowDrop="True">
+
+            </TextBox>
+
+            <TextBox Width="150"
+                      Height="20"
+                Margin="20,10,0,0"
+                     Text="{Binding SelectedCar.ImageUrl}">
+
+            </TextBox>
+            <TextBox Width="150"
+                      Height="20"
+                Margin="20,10,0,0"
+                     Text="{Binding SelectedCar.EngineVoume}">
+
+            </TextBox>
+            <ComboBox Margin="20,10,0,0"
+                          Height="20"
+                          Width="100"
+                          ItemsSource="{Binding Path=Transmissions}"
+                          DisplayMemberPath="TypeTransm"
+                          Text="{Binding SelectedCar.Transmissions}">
+            </ComboBox>
+            <TextBox Width="150"
+                      Height="20"
+                Margin="20,10,0,0"
+                     Text="{Binding SelectedCar.YearOfIssue}">
+
+            </TextBox>
+            <TextBox Width="150"
+                     Height="20"
+                Margin="20,10,0,0"
+                     Text="{Binding SelectedCar.Mileage}"
+                      AllowDrop="True">
+
+            </TextBox>
+            <TextBox Width="150"
+                      Height="20"
+                Margin="20,10,0,0"
+                     Text="{Binding SelectedCar.HorsePower}">
+
+            </TextBox>
+            <TextBox Width="150"
+                     Height="20"
+                Margin="20,10,0,0"
+                     Text="{Binding SelectedCar.TypeOfDrive}">
+            </TextBox>
+            <TextBox Width="150"
+                     Height="20"
+                Margin="20,10,0,0"
+                     Text="{Binding SelectedCar.Fuel}">
+
+            </TextBox>
+        </StackPanel>
+        <StackPanel Grid.Column="2"
+                    HorizontalAlignment="Right"
+                    VerticalAlignment="Bottom">
+            <Button Width="150"
+                    Height="30"
+                    FontWeight="UltraBold"
+                    Margin="0,0,10,20"
+                    Command="{Binding EditCarCommand}">EDIT</Button>
+        </StackPanel>
+    </Grid>
+    
+</UserControl>

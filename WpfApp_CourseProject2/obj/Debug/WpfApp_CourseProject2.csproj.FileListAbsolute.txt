@@ -1,0 +1,160 @@
+D:\ШАГ\WpfApp_CourseProject2\WpfApp_CourseProject2\bin\Debug\WpfApp_CourseProject2.exe.config
+D:\ШАГ\WpfApp_CourseProject2\WpfApp_CourseProject2\bin\Debug\WpfApp_CourseProject2.exe
+D:\ШАГ\WpfApp_CourseProject2\WpfApp_CourseProject2\bin\Debug\WpfApp_CourseProject2.pdb
+D:\ШАГ\WpfApp_CourseProject2\WpfApp_CourseProject2\bin\Debug\DAL.dll
+D:\ШАГ\WpfApp_CourseProject2\WpfApp_CourseProject2\bin\Debug\EntityFramework.dll
+D:\ШАГ\WpfApp_CourseProject2\WpfApp_CourseProject2\bin\Debug\DAL.pdb
+D:\ШАГ\WpfApp_CourseProject2\WpfApp_CourseProject2\bin\Debug\DAL.dll.config
+D:\ШАГ\WpfApp_CourseProject2\WpfApp_CourseProject2\bin\Debug\EntityFramework.xml
+D:\ШАГ\WpfApp_CourseProject2\WpfApp_CourseProject2\obj\Debug\WpfApp_CourseProject2.csprojAssemblyReference.cache
+D:\ШАГ\WpfApp_CourseProject2\WpfApp_CourseProject2\obj\Debug\App.g.cs
+D:\ШАГ\WpfApp_CourseProject2\WpfApp_CourseProject2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\ШАГ\WpfApp_CourseProject2\WpfApp_CourseProject2\obj\Debug\WpfApp_CourseProject2_MarkupCompile.cache
+D:\ШАГ\WpfApp_CourseProject2\WpfApp_CourseProject2\obj\Debug\WpfApp_CourseProject2_MarkupCompile.lref
+D:\ШАГ\WpfApp_CourseProject2\WpfApp_CourseProject2\obj\Debug\WpfApp_CourseProject2.g.resources
+D:\ШАГ\WpfApp_CourseProject2\WpfApp_CourseProject2\obj\Debug\WpfApp_CourseProject2.Properties.Resources.resources
+D:\ШАГ\WpfApp_CourseProject2\WpfApp_CourseProject2\obj\Debug\WpfApp_CourseProject2.csproj.GenerateResource.cache
+D:\ШАГ\WpfApp_CourseProject2\WpfApp_CourseProject2\obj\Debug\WpfApp_CourseProject2.csproj.CoreCompileInputs.cache
+D:\ШАГ\WpfApp_CourseProject2\WpfApp_CourseProject2\obj\Debug\WpfApp_CourseProject2.csproj.CopyComplete
+D:\ШАГ\WpfApp_CourseProject2\WpfApp_CourseProject2\obj\Debug\WpfApp_CourseProject2.exe
+D:\ШАГ\WpfApp_CourseProject2\WpfApp_CourseProject2\obj\Debug\WpfApp_CourseProject2.pdb
+D:\ШАГ\WpfApp_CourseProject2\WpfApp_CourseProject2\bin\Debug\EntityFramework.SqlServer.dll
+D:\ШАГ\WpfApp_CourseProject2\WpfApp_CourseProject2\bin\Debug\EntityFramework.SqlServer.xml
+D:\ШАГ\WpfApp_CourseProject2 — копия (2)\WpfApp_CourseProject2\bin\Debug\WpfApp_CourseProject2.exe.config
+D:\ШАГ\WpfApp_CourseProject2 — копия (2)\WpfApp_CourseProject2\bin\Debug\WpfApp_CourseProject2.exe
+D:\ШАГ\WpfApp_CourseProject2 — копия (2)\WpfApp_CourseProject2\bin\Debug\WpfApp_CourseProject2.pdb
+D:\ШАГ\WpfApp_CourseProject2 — копия (2)\WpfApp_CourseProject2\bin\Debug\DAL.dll
+D:\ШАГ\WpfApp_CourseProject2 — копия (2)\WpfApp_CourseProject2\bin\Debug\EntityFramework.dll
+D:\ШАГ\WpfApp_CourseProject2 — копия (2)\WpfApp_CourseProject2\bin\Debug\EntityFramework.SqlServer.dll
+D:\ШАГ\WpfApp_CourseProject2 — копия (2)\WpfApp_CourseProject2\bin\Debug\DAL.pdb
+D:\ШАГ\WpfApp_CourseProject2 — копия (2)\WpfApp_CourseProject2\bin\Debug\DAL.dll.config
+D:\ШАГ\WpfApp_CourseProject2 — копия (2)\WpfApp_CourseProject2\bin\Debug\EntityFramework.xml
+D:\ШАГ\WpfApp_CourseProject2 — копия (2)\WpfApp_CourseProject2\bin\Debug\EntityFramework.SqlServer.xml
+D:\ШАГ\WpfApp_CourseProject2 — копия (2)\WpfApp_CourseProject2\obj\Debug\WpfApp_CourseProject2.csprojAssemblyReference.cache
+D:\ШАГ\WpfApp_CourseProject2 — копия (2)\WpfApp_CourseProject2\obj\Debug\MainWindow.g.cs
+D:\ШАГ\WpfApp_CourseProject2 — копия (2)\WpfApp_CourseProject2\obj\Debug\App.g.cs
+D:\ШАГ\WpfApp_CourseProject2 — копия (2)\WpfApp_CourseProject2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\ШАГ\WpfApp_CourseProject2 — копия (2)\WpfApp_CourseProject2\obj\Debug\WpfApp_CourseProject2_MarkupCompile.cache
+D:\ШАГ\WpfApp_CourseProject2 — копия (2)\WpfApp_CourseProject2\obj\Debug\WpfApp_CourseProject2_MarkupCompile.lref
+D:\ШАГ\WpfApp_CourseProject2 — копия (2)\WpfApp_CourseProject2\obj\Debug\MainWindow.baml
+D:\ШАГ\WpfApp_CourseProject2 — копия (2)\WpfApp_CourseProject2\obj\Debug\WpfApp_CourseProject2.g.resources
+D:\ШАГ\WpfApp_CourseProject2 — копия (2)\WpfApp_CourseProject2\obj\Debug\WpfApp_CourseProject2.Properties.Resources.resources
+D:\ШАГ\WpfApp_CourseProject2 — копия (2)\WpfApp_CourseProject2\obj\Debug\WpfApp_CourseProject2.csproj.GenerateResource.cache
+D:\ШАГ\WpfApp_CourseProject2 — копия (2)\WpfApp_CourseProject2\obj\Debug\WpfApp_CourseProject2.csproj.CoreCompileInputs.cache
+D:\ШАГ\WpfApp_CourseProject2 — копия (2)\WpfApp_CourseProject2\obj\Debug\WpfApp_CourseProject2.csproj.CopyComplete
+D:\ШАГ\WpfApp_CourseProject2 — копия (2)\WpfApp_CourseProject2\obj\Debug\WpfApp_CourseProject2.exe
+D:\ШАГ\WpfApp_CourseProject2 — копия (2)\WpfApp_CourseProject2\obj\Debug\WpfApp_CourseProject2.pdb
+D:\ШАГ\WpfApp_CourseProject2 — копия (3)\WpfApp_CourseProject2\bin\Debug\WpfApp_CourseProject2.exe.config
+D:\ШАГ\WpfApp_CourseProject2 — копия (3)\WpfApp_CourseProject2\bin\Debug\WpfApp_CourseProject2.exe
+D:\ШАГ\WpfApp_CourseProject2 — копия (3)\WpfApp_CourseProject2\bin\Debug\WpfApp_CourseProject2.pdb
+D:\ШАГ\WpfApp_CourseProject2 — копия (3)\WpfApp_CourseProject2\bin\Debug\DAL.dll
+D:\ШАГ\WpfApp_CourseProject2 — копия (3)\WpfApp_CourseProject2\bin\Debug\EntityFramework.dll
+D:\ШАГ\WpfApp_CourseProject2 — копия (3)\WpfApp_CourseProject2\bin\Debug\EntityFramework.SqlServer.dll
+D:\ШАГ\WpfApp_CourseProject2 — копия (3)\WpfApp_CourseProject2\bin\Debug\DAL.pdb
+D:\ШАГ\WpfApp_CourseProject2 — копия (3)\WpfApp_CourseProject2\bin\Debug\DAL.dll.config
+D:\ШАГ\WpfApp_CourseProject2 — копия (3)\WpfApp_CourseProject2\bin\Debug\EntityFramework.xml
+D:\ШАГ\WpfApp_CourseProject2 — копия (3)\WpfApp_CourseProject2\bin\Debug\EntityFramework.SqlServer.xml
+D:\ШАГ\WpfApp_CourseProject2 — копия (3)\WpfApp_CourseProject2\obj\Debug\WpfApp_CourseProject2.csprojAssemblyReference.cache
+D:\ШАГ\WpfApp_CourseProject2 — копия (3)\WpfApp_CourseProject2\obj\Debug\App.g.cs
+D:\ШАГ\WpfApp_CourseProject2 — копия (3)\WpfApp_CourseProject2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\ШАГ\WpfApp_CourseProject2 — копия (3)\WpfApp_CourseProject2\obj\Debug\WpfApp_CourseProject2_MarkupCompile.cache
+D:\ШАГ\WpfApp_CourseProject2 — копия (3)\WpfApp_CourseProject2\obj\Debug\WpfApp_CourseProject2_MarkupCompile.lref
+D:\ШАГ\WpfApp_CourseProject2 — копия (3)\WpfApp_CourseProject2\obj\Debug\WpfApp_CourseProject2.g.resources
+D:\ШАГ\WpfApp_CourseProject2 — копия (3)\WpfApp_CourseProject2\obj\Debug\WpfApp_CourseProject2.Properties.Resources.resources
+D:\ШАГ\WpfApp_CourseProject2 — копия (3)\WpfApp_CourseProject2\obj\Debug\WpfApp_CourseProject2.csproj.GenerateResource.cache
+D:\ШАГ\WpfApp_CourseProject2 — копия (3)\WpfApp_CourseProject2\obj\Debug\WpfApp_CourseProject2.csproj.CoreCompileInputs.cache
+D:\ШАГ\WpfApp_CourseProject2 — копия (3)\WpfApp_CourseProject2\obj\Debug\WpfApp_CourseProject2.csproj.CopyComplete
+D:\ШАГ\WpfApp_CourseProject2 — копия (3)\WpfApp_CourseProject2\obj\Debug\WpfApp_CourseProject2.exe
+D:\ШАГ\WpfApp_CourseProject2 — копия (3)\WpfApp_CourseProject2\obj\Debug\WpfApp_CourseProject2.pdb
+D:\ШАГ\WpfApp_CourseProject2 — копия (3)\WpfApp_CourseProject2\obj\Debug\Views\MainView.g.cs
+D:\ШАГ\WpfApp_CourseProject2 — копия (3)\WpfApp_CourseProject2\obj\Debug\Views\MainView.baml
+D:\ШАГ\WpfApp_CourseProject2\WpfApp_CourseProject2\obj\Debug\Views\GeneralSyteView.g.cs
+D:\ШАГ\WpfApp_CourseProject2\WpfApp_CourseProject2\obj\Debug\Views\MainView.g.cs
+D:\ШАГ\WpfApp_CourseProject2\WpfApp_CourseProject2\obj\Debug\Views\MainView.baml
+D:\ШАГ\WpfApp_CourseProject2\WpfApp_CourseProject2\obj\Debug\Views\GeneralSyteView.baml
+D:\ШАГ\WpfApp_CourseProject2\WpfApp_CourseProject2\obj\Debug\Views\SignUserView.g.cs
+D:\ШАГ\WpfApp_CourseProject2\WpfApp_CourseProject2\obj\Debug\Views\SignUserView.baml
+D:\ШАГ\WpfApp_CourseProject2\WpfApp_CourseProject2\obj\Debug\Views\AdminView.g.cs
+D:\ШАГ\WpfApp_CourseProject2\WpfApp_CourseProject2\obj\Debug\Views\AdminView.baml
+D:\ШАГ\WpfApp_CourseProject2\WpfApp_CourseProject2\obj\Debug\Views\NewUserView.g.cs
+D:\ШАГ\WpfApp_CourseProject2\WpfApp_CourseProject2\obj\Debug\Views\NewUserView.baml
+D:\ШАГ\WpfApp_CourseProject2\WpfApp_CourseProject2\obj\Debug\Views\CurrentUserMainView.g.cs
+D:\ШАГ\WpfApp_CourseProject2\WpfApp_CourseProject2\obj\Debug\Views\CurrentUserMainView.baml
+D:\ШАГ\WpfApp_CourseProject2\WpfApp_CourseProject2\obj\Debug\Views\GeneralUserPage.g.cs
+D:\ШАГ\WpfApp_CourseProject2\WpfApp_CourseProject2\obj\Debug\Views\GeneralUserPage.baml
+D:\ШАГ\WpfApp_CourseProject2\WpfApp_CourseProject2\obj\Debug\Views\FavoriteCarsPage.g.cs
+D:\ШАГ\WpfApp_CourseProject2\WpfApp_CourseProject2\obj\Debug\Views\FavoriteCarsPage.baml
+D:\ШАГ\WpfApp_CourseProject2\WpfApp_CourseProject2\obj\Debug\Views\GeneralAdminView.g.cs
+D:\ШАГ\WpfApp_CourseProject2\WpfApp_CourseProject2\obj\Debug\Views\NewCarView.g.cs
+D:\ШАГ\WpfApp_CourseProject2\WpfApp_CourseProject2\obj\Debug\Views\GeneralAdminView.baml
+D:\ШАГ\WpfApp_CourseProject2\WpfApp_CourseProject2\obj\Debug\Views\NewCarView.baml
+D:\ШАГ\WpfApp_CourseProject2\WpfApp_CourseProject2\obj\Debug\Views\EditCarView.g.cs
+D:\ШАГ\WpfApp_CourseProject2\WpfApp_CourseProject2\obj\Debug\Views\EditCarView.baml
+D:\ШАГ\WpfApp_CourseProject2\WpfApp_CourseProject2\obj\Debug\Views\InfoCarView.g.cs
+D:\ШАГ\WpfApp_CourseProject2\WpfApp_CourseProject2\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\ШАГ\WpfApp_CourseProject2\WpfApp_CourseProject2\bin\Debug\System.Windows.Interactivity.dll
+D:\ШАГ\WpfApp_CourseProject2\WpfApp_CourseProject2\bin\Debug\Microsoft.Expression.Interactions.xml
+D:\ШАГ\WpfApp_CourseProject2\WpfApp_CourseProject2\bin\Debug\System.Windows.Interactivity.xml
+D:\ШАГ\WpfApp_CourseProject2\WpfApp_CourseProject2\obj\Debug\Views\InfoCarWindow.g.cs
+D:\ШАГ\WpfApp_CourseProject2\WpfApp_CourseProject2\obj\Debug\Views\InfoCarView.baml
+D:\ШАГ\WpfApp_CourseProject2\WpfApp_CourseProject2\obj\Debug\Views\InfoCarWindow.baml
+D:\ШАГ\WpfApp_CourseProject2\WpfApp_CourseProject2\obj\Debug\Views\InfoCarUserView.g.cs
+D:\ШАГ\WpfApp_CourseProject2\WpfApp_CourseProject2\obj\Debug\Views\InfoCarUserView.baml
+D:\ШАГ\WpfApp_CourseProject2\WpfApp_CourseProject2\obj\Debug\Views\InfoCarAdminView.g.cs
+D:\ШАГ\WpfApp_CourseProject2\WpfApp_CourseProject2\obj\Debug\Views\InfoCarAdminView.baml
+D:\ШАГ\WpfApp_CourseProject2 — копия (6)\WpfApp_CourseProject2\bin\Debug\WpfApp_CourseProject2.exe.config
+D:\ШАГ\WpfApp_CourseProject2 — копия (6)\WpfApp_CourseProject2\bin\Debug\WpfApp_CourseProject2.exe
+D:\ШАГ\WpfApp_CourseProject2 — копия (6)\WpfApp_CourseProject2\bin\Debug\WpfApp_CourseProject2.pdb
+D:\ШАГ\WpfApp_CourseProject2 — копия (6)\WpfApp_CourseProject2\bin\Debug\DAL.dll
+D:\ШАГ\WpfApp_CourseProject2 — копия (6)\WpfApp_CourseProject2\bin\Debug\EntityFramework.dll
+D:\ШАГ\WpfApp_CourseProject2 — копия (6)\WpfApp_CourseProject2\bin\Debug\EntityFramework.SqlServer.dll
+D:\ШАГ\WpfApp_CourseProject2 — копия (6)\WpfApp_CourseProject2\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\ШАГ\WpfApp_CourseProject2 — копия (6)\WpfApp_CourseProject2\bin\Debug\System.Windows.Interactivity.dll
+D:\ШАГ\WpfApp_CourseProject2 — копия (6)\WpfApp_CourseProject2\bin\Debug\DAL.pdb
+D:\ШАГ\WpfApp_CourseProject2 — копия (6)\WpfApp_CourseProject2\bin\Debug\DAL.dll.config
+D:\ШАГ\WpfApp_CourseProject2 — копия (6)\WpfApp_CourseProject2\bin\Debug\EntityFramework.xml
+D:\ШАГ\WpfApp_CourseProject2 — копия (6)\WpfApp_CourseProject2\bin\Debug\EntityFramework.SqlServer.xml
+D:\ШАГ\WpfApp_CourseProject2 — копия (6)\WpfApp_CourseProject2\bin\Debug\Microsoft.Expression.Interactions.xml
+D:\ШАГ\WpfApp_CourseProject2 — копия (6)\WpfApp_CourseProject2\bin\Debug\System.Windows.Interactivity.xml
+D:\ШАГ\WpfApp_CourseProject2 — копия (6)\WpfApp_CourseProject2\obj\Debug\WpfApp_CourseProject2.csprojAssemblyReference.cache
+D:\ШАГ\WpfApp_CourseProject2 — копия (6)\WpfApp_CourseProject2\obj\Debug\Views\AdminView.g.cs
+D:\ШАГ\WpfApp_CourseProject2 — копия (6)\WpfApp_CourseProject2\obj\Debug\Views\CurrentUserMainView.g.cs
+D:\ШАГ\WpfApp_CourseProject2 — копия (6)\WpfApp_CourseProject2\obj\Debug\Views\EditCarView.g.cs
+D:\ШАГ\WpfApp_CourseProject2 — копия (6)\WpfApp_CourseProject2\obj\Debug\Views\FavoriteCarsPage.g.cs
+D:\ШАГ\WpfApp_CourseProject2 — копия (6)\WpfApp_CourseProject2\obj\Debug\Views\GeneralAdminView.g.cs
+D:\ШАГ\WpfApp_CourseProject2 — копия (6)\WpfApp_CourseProject2\obj\Debug\Views\GeneralSyteView.g.cs
+D:\ШАГ\WpfApp_CourseProject2 — копия (6)\WpfApp_CourseProject2\obj\Debug\Views\GeneralUserPage.g.cs
+D:\ШАГ\WpfApp_CourseProject2 — копия (6)\WpfApp_CourseProject2\obj\Debug\Views\InfoCarAdminView.g.cs
+D:\ШАГ\WpfApp_CourseProject2 — копия (6)\WpfApp_CourseProject2\obj\Debug\Views\InfoCarUserView.g.cs
+D:\ШАГ\WpfApp_CourseProject2 — копия (6)\WpfApp_CourseProject2\obj\Debug\Views\InfoCarView.g.cs
+D:\ШАГ\WpfApp_CourseProject2 — копия (6)\WpfApp_CourseProject2\obj\Debug\Views\InfoCarWindow.g.cs
+D:\ШАГ\WpfApp_CourseProject2 — копия (6)\WpfApp_CourseProject2\obj\Debug\Views\MainView.g.cs
+D:\ШАГ\WpfApp_CourseProject2 — копия (6)\WpfApp_CourseProject2\obj\Debug\Views\NewCarView.g.cs
+D:\ШАГ\WpfApp_CourseProject2 — копия (6)\WpfApp_CourseProject2\obj\Debug\Views\NewUserView.g.cs
+D:\ШАГ\WpfApp_CourseProject2 — копия (6)\WpfApp_CourseProject2\obj\Debug\Views\SignUserView.g.cs
+D:\ШАГ\WpfApp_CourseProject2 — копия (6)\WpfApp_CourseProject2\obj\Debug\App.g.cs
+D:\ШАГ\WpfApp_CourseProject2 — копия (6)\WpfApp_CourseProject2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\ШАГ\WpfApp_CourseProject2 — копия (6)\WpfApp_CourseProject2\obj\Debug\WpfApp_CourseProject2_MarkupCompile.cache
+D:\ШАГ\WpfApp_CourseProject2 — копия (6)\WpfApp_CourseProject2\obj\Debug\WpfApp_CourseProject2_MarkupCompile.lref
+D:\ШАГ\WpfApp_CourseProject2 — копия (6)\WpfApp_CourseProject2\obj\Debug\Views\AdminView.baml
+D:\ШАГ\WpfApp_CourseProject2 — копия (6)\WpfApp_CourseProject2\obj\Debug\Views\CurrentUserMainView.baml
+D:\ШАГ\WpfApp_CourseProject2 — копия (6)\WpfApp_CourseProject2\obj\Debug\Views\EditCarView.baml
+D:\ШАГ\WpfApp_CourseProject2 — копия (6)\WpfApp_CourseProject2\obj\Debug\Views\FavoriteCarsPage.baml
+D:\ШАГ\WpfApp_CourseProject2 — копия (6)\WpfApp_CourseProject2\obj\Debug\Views\GeneralAdminView.baml
+D:\ШАГ\WpfApp_CourseProject2 — копия (6)\WpfApp_CourseProject2\obj\Debug\Views\GeneralSyteView.baml
+D:\ШАГ\WpfApp_CourseProject2 — копия (6)\WpfApp_CourseProject2\obj\Debug\Views\GeneralUserPage.baml
+D:\ШАГ\WpfApp_CourseProject2 — копия (6)\WpfApp_CourseProject2\obj\Debug\Views\InfoCarAdminView.baml
+D:\ШАГ\WpfApp_CourseProject2 — копия (6)\WpfApp_CourseProject2\obj\Debug\Views\InfoCarUserView.baml
+D:\ШАГ\WpfApp_CourseProject2 — копия (6)\WpfApp_CourseProject2\obj\Debug\Views\InfoCarView.baml
+D:\ШАГ\WpfApp_CourseProject2 — копия (6)\WpfApp_CourseProject2\obj\Debug\Views\InfoCarWindow.baml
+D:\ШАГ\WpfApp_CourseProject2 — копия (6)\WpfApp_CourseProject2\obj\Debug\Views\MainView.baml
+D:\ШАГ\WpfApp_CourseProject2 — копия (6)\WpfApp_CourseProject2\obj\Debug\Views\NewCarView.baml
+D:\ШАГ\WpfApp_CourseProject2 — копия (6)\WpfApp_CourseProject2\obj\Debug\Views\NewUserView.baml
+D:\ШАГ\WpfApp_CourseProject2 — копия (6)\WpfApp_CourseProject2\obj\Debug\Views\SignUserView.baml
+D:\ШАГ\WpfApp_CourseProject2 — копия (6)\WpfApp_CourseProject2\obj\Debug\WpfApp_CourseProject2.g.resources
+D:\ШАГ\WpfApp_CourseProject2 — копия (6)\WpfApp_CourseProject2\obj\Debug\WpfApp_CourseProject2.Properties.Resources.resources
+D:\ШАГ\WpfApp_CourseProject2 — копия (6)\WpfApp_CourseProject2\obj\Debug\WpfApp_CourseProject2.csproj.GenerateResource.cache
+D:\ШАГ\WpfApp_CourseProject2 — копия (6)\WpfApp_CourseProject2\obj\Debug\WpfApp_CourseProject2.csproj.CoreCompileInputs.cache
+D:\ШАГ\WpfApp_CourseProject2 — копия (6)\WpfApp_CourseProject2\obj\Debug\WpfApp_CourseProject2.csproj.CopyComplete
+D:\ШАГ\WpfApp_CourseProject2 — копия (6)\WpfApp_CourseProject2\obj\Debug\WpfApp_CourseProject2.exe
+D:\ШАГ\WpfApp_CourseProject2 — копия (6)\WpfApp_CourseProject2\obj\Debug\WpfApp_CourseProject2.pdb
